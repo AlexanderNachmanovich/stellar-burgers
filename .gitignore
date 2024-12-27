@@ -1,4 +1,9 @@
 node_modules
 .env
-.idea
 dist
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+*.iml
+out/
